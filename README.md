@@ -8,3 +8,4 @@ Links
 - Stanford Drone Dataset - http://cvgl.stanford.edu/projects/uav_data/
 - Aulas sobre Redes Neurais Artificiais - UFG: https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB
 
+- Faster R-CNN for OpenImages Dataset by Keras - https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras
